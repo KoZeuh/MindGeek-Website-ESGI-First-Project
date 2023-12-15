@@ -1,0 +1,23 @@
+.card-body {
+    border: none;
+}
+
+.card-body a {
+    text-decoration: none;
+}
+
+.pointillets {
+    border-bottom: 1px dashed #fb8a9b;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.fa-custom {
+    font-size: 40px;
+}
+
+.location-text {
+    margin-top: 0.4em;
+    font-style: italic;
+}
+
